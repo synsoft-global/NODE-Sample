@@ -1,0 +1,47 @@
+{
+    "dev": {
+        "username": "",
+        "password": "",
+        "database": "",
+        "host": "",
+        "dialect": "mysql",
+        "emailbounce": "",
+        "emailfrom": "",
+        "aws": {
+            "key": "",
+            "secret": "",
+            "region": "us-east-1",
+            "data_bucket": ""
+        }
+    },
+    "live": {
+        "username": "",
+        "password": "",
+        "database": "",
+        "host": "",
+        "dialect": "mysql",
+        "emailbounce": "",
+        "emailfrom": "",
+        "aws": {
+            "key": "",
+            "secret": "F",
+            "region": "us-east-1",
+            "data_bucket": ""
+        }
+    },
+    "staging": {
+        "username": "",
+        "password": "",
+        "database": "",
+        "host": "",
+        "dialect": "mysql",
+        "emailbounce": "",
+        "emailfrom": "",
+        "aws": {
+            "key": "",
+            "secret": "",
+            "region": "us-east-1",
+            "data_bucket": ""
+        }
+    }
+}
